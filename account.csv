@@ -1,0 +1,2 @@
+id,password                                                    ,last_login,is_superuser,email                ,user_name,first_name,start_date,about      ,image,is_active,is_staff
+1 ,$2a$10$TqQ8v4jaQ2cke1T4VFv5suL.sijFZDp6FQM3GiJXKZ38mksvvdMdq,''        ,True        ,'hungadmin@gmail.com',hungthe  ,hung      ,2022-08-11,admin ahihi,''   ,True     ,True
