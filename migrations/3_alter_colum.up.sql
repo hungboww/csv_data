@@ -1,0 +1,4 @@
+-- ALTER TABLE tbl_user
+--     ADD role_id int not null;
+--
+-- ALTER TABLE tbl_user ADD CONSTRAINT fk_role_user FOREIGN KEY (role_id) REFERENCES tbl_role (id);
